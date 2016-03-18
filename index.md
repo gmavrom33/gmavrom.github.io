@@ -11,15 +11,6 @@ I graduated from the [University of Toronto][] with a bachelor in [Engineering S
 
 I have trained as a physician at [Imperial College London medical school][] and I currently live and work as a doctor in London,UK.
 
-***
-
-##Software
-
-- [**SLiMEBook**](http://nbviewer.ipython.org/github/elipapa/SLiMEbook/blob/master/SLiMEbook.ipynb) - the original analysis of my [IBD paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039242), involving machine learning applied to 16S microbiome data, ported to an Ipython notebook
-- [**markdown-cv** ](https://elipapa.github.io/markdown-cv/)- build a beautiful cv in plain text using HTML/Markdown/CSS
-- [**you are what you eat**](https://elipapa.github.io/youarewhatyoueat/) - an interactive visualizations of food diary data using D3/crossfilter/dc.js
-- [**karmen**](https://github.com/elipapa/karmen) - a quick and dirty command line browser for the [LanguaL thesaurus](http://www.langual.org/langual_Thesaurus.asp)
-
 <!-- 
 ***
 
@@ -34,7 +25,7 @@ You can also find me at [about.me][] and [LinkedIn][] -->
 
 <div class="footer">
 	<hr>
-         This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
+         This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://lanyon.getpoole.com/">Lanyon</a> theme.
          Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>.
  </div>
 
