@@ -16,7 +16,7 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
     
-    {% comment %}
+    
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
@@ -27,9 +27,9 @@
       {% endif %}
     {% endfor %}
     
-    {% endcomment %}
-
     
+
+    {% comment %}
     <li class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}">
       <a href="{{site.baseurl}}/blog/">Blog</a>
     </li>
@@ -38,6 +38,8 @@
     <li class="sidebar-nav-item"><a href="https://scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en">Google Scholar</a></li>
     <li class="sidebar-nav-item"><a href="https://github.com/gmavrom">Github</a></li>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+    {% endcomment %}
+
   </nav>
 
   <div class="sidebar-item">
