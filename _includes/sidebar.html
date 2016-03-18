@@ -25,9 +25,14 @@
       {% endif %}
     {% endfor %}
     
-    <!-- Download link
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a> -->
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <li class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}">
+      <a href="{{site.baseurl}}/blog/">Blog</a>
+    </li>
+    <li class="sidebar-nav-item"><a href="https://github.com/gmavrom">Github</a></li>
+    <li class="sidebar-nav-item"><a href="https://ch.linkedin.com/in/gmavrom">LinkedIn</a></li>
+    <li class="sidebar-nav-item"><a href="{{ site.baseurl }}/downloads/cv.pdf">CV</a></li>
+    </ul>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
