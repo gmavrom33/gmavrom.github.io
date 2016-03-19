@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true 
+# relative_permalinks: true 
 
 # Setup
 title:               Georgios Mavromatidis
@@ -11,7 +11,7 @@ description:         'PhD student in Urban Energy Systems at ETH Zurich'
 url:                 http://mavromatidis.me
 baseurl:             ''
 paginate:            2
-paginate_path:    "blog/:num"
+paginate_path:       "blog/:num"
 
 # About/contact
 author:
