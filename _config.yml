@@ -11,6 +11,7 @@ description:         'PhD student in Urban Energy Systems at ETH Zurich'
 url:                 http://mavromatidis.me
 baseurl:             ''
 paginate:            2
+paginate_path:    "blog/:num"
 
 # About/contact
 author:
