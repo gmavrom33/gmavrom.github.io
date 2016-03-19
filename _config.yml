@@ -10,7 +10,7 @@ tagline:             'A personal website'
 description:         'PhD student in Urban Energy Systems at ETH Zurich'
 url:                 http://mavromatidis.me
 baseurl:             ''
-paginate:            5
+paginate:            2
 
 # About/contact
 author:
