@@ -10,6 +10,9 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+	<li class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}">
+      <a href="{{site.baseurl}}/blog/">Blog</a>
+    </li>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
@@ -30,9 +33,6 @@
     
 
     {% comment %}
-    <li class="sidebar-nav-item{% if page.title == "Blog" %} active{% endif %}">
-      <a href="{{site.baseurl}}/blog/">Blog</a>
-    </li>
     <li class="sidebar-nav-item"><a href="{{ site.baseurl }}/downloads/cv.pdf">CV</a></li>
 	{% endcomment %}
     <li class="sidebar-nav-item"><a href="https://ch.linkedin.com/in/gmavrom" target="_blank">LinkedIn</a></li>
