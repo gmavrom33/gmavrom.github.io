@@ -37,12 +37,11 @@
 
     {% comment %}
     <li class="sidebar-nav-item"><a href="{{ site.baseurl }}/downloads/cv.pdf">CV</a></li>
-    <li class="sidebar-nav-item"><a href="https://ch.linkedin.com/in/gmavrom" target="_blank">LinkedIn</a></li>
-    <li class="sidebar-nav-item"><a href="https://scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en" target="_blank">Google Scholar</a></li>
-    <li class="sidebar-nav-item"><a href="https://github.com/gmavrom" target="_blank">Github</a></li>
-	{% endcomment %}
+    {% endcomment %}
 	<a class="sidebar-nav-item{% if page.url == "Blog" %} active{% endif %}" href=https://ch.linkedin.com/in/gmavrom target ="_blank">LinkedIn</a>
-	<a class="sidebar-nav-item href="https://ch.linkedin.com/in/gmavrom" target="_blank">LinkedIn</a>
+	<a class="sidebar-nav-item{% if page.url == "Blog" %} active{% endif %}" href=https://scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en target ="_blank">Google Scholar</a>
+	<a class="sidebar-nav-item{% if page.url == "Blog" %} active{% endif %}" href=https://github.com/gmavrom target ="_blank">Github</a>
+
     
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     
