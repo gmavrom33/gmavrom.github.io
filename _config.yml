@@ -9,7 +9,7 @@ title:               Georgios Mavromatidis
 tagline:             'A personal website'
 description:         'PhD student in Urban Energy Systems at ETH Zurich'
 url:                 http://mavromatidis.me
-baseurl:             "http://gmavrom.github.io"
+baseurl:             "http://mavromatidis.me"
 production_url:      'http://www.mavromatidis.me'
 paginate:            1
 paginate_path:       "blog/:num"
