@@ -3,14 +3,7 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-<<<<<<< HEAD
 permalink:        pretty
-=======
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-# relative_permalinks: true
->>>>>>> 27e46811df8b3971f492b8f7b09c20552ef8bc97
 
 # Setup
 title:            Lanyon
