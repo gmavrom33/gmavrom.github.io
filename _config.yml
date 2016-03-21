@@ -1,28 +1,19 @@
-# Dependencies
-markdown:         kramdown
-pygments:         true
+name: Michael Lanyon's Blog
+url: 'https://blog.lanyonm.org'
+description: 'Notes and thoughts from LanyonM'
 
-# Permalinks
-permalink:        pretty
+exclude: [Gemfile, Gemfile.lock, README.md]
+markdown: kramdown
 
-# Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+author: 'Michael Lanyon'
+disqus_shortname: lanyonm
+google_analytics: UA-42209870-1
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
+gems:
+  # https://help.github.com/articles/atom-rss-feeds-for-github-pages/
+  - jekyll-gist
+  - jekyll-sitemap
 
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: :compressed
