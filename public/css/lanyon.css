@@ -200,6 +200,15 @@ a.sidebar-nav-item:focus {
   }
 }
 
+.sidebar .social-icons a {
+  color: rgba(255, 255, 255, 0.6);
+  padding-right: 0.75em;
+}
+
+.sidebar .social-icons a:hover {
+  text-decoration: none;
+}
+
 /* Hide the sidebar checkbox that we toggle with `.sidebar-toggle` */
 .sidebar-checkbox {
   display: none;
