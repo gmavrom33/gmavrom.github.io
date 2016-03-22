@@ -10,6 +10,9 @@ title: CV
 
 # Georgios Mavromatidis
 
+Download my CV in <li><a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i>PDF</a></li> format.
+
+
 <div class="contact">
   <ul>
 		<li><a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-linkedin"></i> gmavrom</a></li>
