@@ -7,7 +7,7 @@ Hi, I am Georgios, but people usually call me George.
 
 Currently, I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research.
 
-Before that, I graduated from the [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
+Before that, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
 
 I have trained as a physician at [Imperial College London medical school][] and I currently live and work as a doctor in London,UK.
 
