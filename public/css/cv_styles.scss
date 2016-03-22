@@ -14,3 +14,18 @@
 		right: 50px;
 	}
 }
+
+
+// Media queries which I am not products
+
+@media screen and (max-width: 900px){
+	.contact ul{
+		text-align: center;
+	li:nth-child(odd){
+		float: none;
+		right: 0;
+		width: inherit;
+	}
+}
+
+}
