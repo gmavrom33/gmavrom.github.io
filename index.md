@@ -16,21 +16,6 @@ I have trained as a physician at [Imperial College London medical school][] and 
 ##Software
 
 - [**SLiMEBook**](http://nbviewer.ipython.org/github/elipapa/SLiMEbook/blob/master/SLiMEbook.ipynb) - the original analysis of my [IBD paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039242), involving machine learning applied to 16S microbiome data, ported to an Ipython notebook
-- [**markdown-cv** ](https://elipapa.github.io/markdown-cv/)- build a beautiful cv in plain text using HTML/Markdown/CSS
-- [**you are what you eat**](https://elipapa.github.io/youarewhatyoueat/) - an interactive visualizations of food diary data using D3/crossfilter/dc.js
-- [**karmen**](https://github.com/elipapa/karmen) - a quick and dirty command line browser for the [LanguaL thesaurus](http://www.langual.org/langual_Thesaurus.asp)
-
-<!-- 
-***
-
-<div class="twitter-timeline-widget" align="center">
-<a class="twitter-timeline" href="https://twitter.com/elipapa" height="600" data-chrome="noborders nofooter" data-widget-id="496053514984898561">Tweets by @elipapa</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-</div> -->
-
-<!-- ***
-
-You can also find me at [about.me][] and [LinkedIn][] -->
 
 <div class="footer">
 	<hr>
