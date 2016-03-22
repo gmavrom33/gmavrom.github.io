@@ -8,12 +8,7 @@ title: CV
 	h1:first-child{ display: none }
 </style>
 
-<style>
-	h3{ text-align: right; }
-	h3:first-child{ display: none }
-</style>
-
-### Download my CV in <a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i> PDF</a>.
+##### Download my CV in <a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i> PDF</a>.
 
 # Georgios Mavromatidis
 
