@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum
+title: CV
 ---
 
 <style>
@@ -8,16 +8,14 @@ title: Curriculum
 	h1:first-child{ display: none }
 </style>
 
-# Albert Vallverdu
+# Georgios Mavromatidis
 
 <div class="contact">
   <ul>
-		<li><a><i class="fa fa-phone"></i>  +44 7720 860376</a></li>
-		<li><a href="mailto:byverdu@gmail.com?subject=Say%20Hello%20to%20Albert"><i class="fa fa-send"></i>  Byverdu@gmail.com</a></li>
-		<li><a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-linkedin"></i> AlbertByverdu</a></li>
-		<li><a href="https://github.com/byverdu"><i class="fa fa-github"></i>  Byverdu</a></li>
-		<li><a href="https://twitter.com/byverdu"><i class="fa fa-twitter"></i>  @Byverdu</a></li>
-		<li><a href="http://byverdu.es"><i class="fa fa-globe"></i>  Hola Mundo Byverdu.es</a></li>
+		<li><a href="mailto:georgios.mavromatidis@gmail.com?subject=Say%20Hello%20to%20George"><i class="fa fa-send"></i> georgios.mavromatidis@gmail.com</a></li>
+		<li><a href="https://www.linkedin.com/in/gmavrom"><i class="fa fa-linkedin"></i> Georgios Mavromatidis</a></li>
+		<li><a href="https://github.com/gmavrom"><i class="fa fa-github"></i>  gmavrom</a></li>
+		<li><a href="https://twitter.com/gmavrom"><i class="fa fa-twitter"></i>  @gmavrom</a></li>
 	</ul>
 </div>
 
