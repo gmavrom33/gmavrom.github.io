@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am Eli, a biomedical engineer, computational biologist and doctor.
+Hi, I am Georgios, a PhD student in the Chair of Building Physics at ETH Zurich. People usually call me George or Γιώργος.
 
 My latest research relates to the [interface between the human immune system and the microbiome][almlab]. You can find a list of my publications on [Google scholar][].
 
@@ -11,6 +11,7 @@ I graduated from the [University of Toronto][] with a bachelor in [Engineering S
 
 I have trained as a physician at [Imperial College London medical school][] and I currently live and work as a doctor in London,UK.
 
-This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
-Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>.
+
+<!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
+Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
 
