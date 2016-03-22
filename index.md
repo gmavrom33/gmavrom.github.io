@@ -3,15 +3,20 @@ layout: default
 title: Home
 ---
 
-Hi, I am Georgios, a PhD student in the Chair of Building Physics at ETH Zurich. People usually call me George or Γιώργος.
+Hi, I am Georgios, but people usually call me George. 
 
-My latest research relates to the [interface between the human immune system and the microbiome][almlab]. You can find a list of my publications on [Google scholar][].
+Currently, I am a PhD student in the Chair of Building Physics at ETH Zurich involved in Urban Energy Systems research.
 
-I graduated from the [University of Toronto][] with a bachelor in [Engineering Science][]. I continued my path in biomedical engineering with a S.M. in mechanical engineering at [MIT][] and a Ph.D from the [Harvard/MIT Health Science & Technology Institute][].
+Before that, I graduated from the [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
 
 I have trained as a physician at [Imperial College London medical school][] and I currently live and work as a doctor in London,UK.
+
 
 
 <!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
 Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
 
+[Aristotle University of Thessaloniki]: http://www.auth.gr/
+[Mechanical Engineering]: http://www.meng.auth.gr/
+[Imperial College London]: http://www.imperial.ac.uk/
+[MSc in Sustainable Energy Futures]: https://www.imperial.ac.uk/energy-futures-lab/our-msc/
