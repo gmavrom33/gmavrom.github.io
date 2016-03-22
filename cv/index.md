@@ -8,10 +8,9 @@ title: CV
 	h1:first-child{ display: none }
 </style>
 
+Download my CV in <a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i>PDF</a>.
+
 # Georgios Mavromatidis
-
-Download my CV in <li><a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i>PDF</a></li> format.
-
 
 <div class="contact">
   <ul>
