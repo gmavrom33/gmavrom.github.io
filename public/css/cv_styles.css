@@ -1,0 +1,16 @@
+---
+
+---
+
+// Curriculum styles
+
+.contact ul{
+	list-style: none;
+
+	li:nth-child(odd){
+		float: right;
+		width: 200px;
+		position: relative;
+		right: 50px;
+	}
+}
