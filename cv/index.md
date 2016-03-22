@@ -10,7 +10,7 @@ title: CV
 
 ##### Download my CV in <a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i> PDF</a>
 
-# Georgios Mavromatidis
+# Georgios Mavromatidis #### <a href="https://www.linkedin.com/in/albertbyverdu"><i class="fa fa-file-pdf-o"></i> PDF</a>
 
 <div class="contact">
   <ul>
