@@ -30,6 +30,6 @@ title: Publications
 	
 ##### 6.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](){:target="_blank"}. In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
-##### 7.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study. In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+##### 7.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](){:target="_blank"}. In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
 ##### 8.	**Mavromatidis, G.**, Papadopoulos A. M. (2011) [Thermodynamic analysis of a solar operated domestic absorption refrigerator](){:target="_blank"}. In: Proceedings of the National Conference on Architecture, Energy and Environment in buildings and cities (ARENEP 2011) (A.M. Papadopoulos, ed), Athens, Greece, May 3rd-4th May 2013 (in Greek).
