@@ -4,7 +4,7 @@ title: Publications
 ---
 ### Peer-reviewed journal publications
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Richner, P., Carmeliet, J. (2015) [A strategy for reducing CO2 emissions from buildings with the Kaya identity - A Swiss energy system analysis & a case study](http://dx.doi.org/10.1016/j.enpol.2015.10.037){:target="_blank"}. _Energy Policy_, 88, 343-354
+##### 1.	**Mavromatidis, G.**, Orehounig, K., Richner, P., Carmeliet, J. (2016) [A strategy for reducing CO2 emissions from buildings with the Kaya identity - A Swiss energy system analysis & a case study](http://dx.doi.org/10.1016/j.enpol.2015.10.037){:target="_blank"}. _Energy Policy_, 88, 343-354
 
 ##### 2.	Allegrini, J., Orehounig, K., **Mavromatidis, G.**, Ruesch, F., Dorer, V., Evins, R. (2015) [A review of modelling approaches and tools for the simulation of district-scale energy systems](http://dx.doi.org/10.1016/j.rser.2015.07.123){:target="_blank"}. _Renewable and Sustainable Energy Reviews_, 52, 1391-1404
 
