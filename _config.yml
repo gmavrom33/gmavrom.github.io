@@ -23,3 +23,7 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/gmavrom/gmavrom.github.io
+  
+gems:
+  - jekyll-sitemap
+
