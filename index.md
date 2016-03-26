@@ -14,7 +14,7 @@ Example for aligned to <img src="https://cdn3.iconfinder.com/data/icons/glypho-f
 <p align="center"><img src="https://cdn3.iconfinder.com/data/icons/glypho-free/64/camera-shutter-48.png"></p>
 <p align="center">A center-aligned Image and paragraph using HTML.</p>
 
-Example for aligned to <p align="center"><img src="https://cdn3.iconfinder.com/data/icons/glypho-free/64/camera-shutter-48.png"></p> top.
+Before that, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][] <img src="https://cdn3.iconfinder.com/data/icons/glypho-free/64/camera-shutter-48.png"></p>.
 
 
 <!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
