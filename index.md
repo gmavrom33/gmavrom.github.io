@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+<img style="float: right;" src="http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png">
+
 Hi, I am Georgios, but people usually call me George.
 
 Currently, I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research.
