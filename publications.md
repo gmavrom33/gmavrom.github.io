@@ -18,11 +18,11 @@ title: Publications
 ### Conference Proceedings
 
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation Of Solar Energy Integration Potential In A Neighborhood](http://www.ibpsa.org/proceedings/BS2015/p2599.pdf){:target="_blank"}. In: 14th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2015, Hyderabad, India, December 7th – 9th 2015.
+1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation Of Solar Energy Integration Potential In A Neighborhood](http://www.ibpsa.org/proceedings/BS2015/p2599.pdf){:target="_blank"}. In: 14th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2015, Hyderabad, India, December 7th – 9th 2015.
 
-##### 2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Climate change impact on the design of urban energy systems](http://dx.doi.org/10.5075/epfl-cisbat2015-853-858){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2015, Lausanne, Switzerland, September 9th – 11th 2015 DOI
+2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Climate change impact on the design of urban energy systems](http://dx.doi.org/10.5075/epfl-cisbat2015-853-858){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2015, Lausanne, Switzerland, September 9th – 11th 2015 DOI
 	
-##### 3.	Orehounig, K., **Mavromatidis, G.**, Derome, D., Carmeliet, J. (2015) [Photovoltaic panels as a main component of energy sustainable communities: comparative energy analysis of a village under Swiss and South African climatic loads](http://repository.up.ac.za/handle/2263/49577){:target="_blank"}. In: Third Southern African Solar Energy Conference, SASEC 2015, Skukuza, Kruger National Park, South Africa, May 11th – 13th 2015.
+3.	Orehounig, K., **Mavromatidis, G.**, Derome, D., Carmeliet, J. (2015) [Photovoltaic panels as a main component of energy sustainable communities: comparative energy analysis of a village under Swiss and South African climatic loads](http://repository.up.ac.za/handle/2263/49577){:target="_blank"}. In: Third Southern African Solar Energy Conference, SASEC 2015, Skukuza, Kruger National Park, South Africa, May 11th – 13th 2015.
 	
 ##### 4.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](http://www.crcnetbase.com/doi/abs/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
 
