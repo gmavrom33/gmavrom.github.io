@@ -14,6 +14,7 @@ url:              http://mavromatidis.me
 author:
   name:           'Georgios Mavromatidis'
   url:            https://twitter.com/gmavrom
+  gravatar_md5:   f4d99d27a868f6337e9da141ef0d0c08
 
 paginate:         5
 paginate_path:    "blog/:num"
