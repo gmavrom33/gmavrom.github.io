@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Hi, I am Georgios, but people usually call me George. :bowtie:
+Hi, I am Georgios, but people usually call me George.
 
 Currently, I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research.
 
