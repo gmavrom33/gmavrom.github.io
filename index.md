@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img style="float: right;" src="http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png">
+<img style="float: right;" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">
 
 Hi, I am Georgios, but people usually call me George.
 
