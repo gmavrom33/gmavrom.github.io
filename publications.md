@@ -36,6 +36,9 @@ title: Publications
 
 ### Reports
 
-##### 1.	Wagner, M., Weyell, C., Christiaanse, K., Mikoleit, A., Carmeliet, J., Orehounig, K.,** Mavromatidis, G.**, Hellweg, S., Frömelt, A., Steubing, B., Schlüter, A., Geyer, P., Cisar, S., Schlegel, M., Zaugg, H. and Gruber, S.. [Zernez Energia 2020 - Aktionsplan](http://dx.doi.org/10.3929/ethz-a-010525998). ETH-Zürich (2015).
+##### 1.	Wagner, M., Weyell, C., Christiaanse, K., Mikoleit, A., Carmeliet, J., Orehounig, K., ** Mavromatidis, G.**, Hellweg, S., Frömelt, A., Steubing, B., Schlüter, A., Geyer, P., Cisar, S., Schlegel, M., Zaugg, H. and Gruber, S. (2015) [Zernez Energia 2020 - Aktionsplan](http://dx.doi.org/10.3929/ethz-a-010525998){:target="_blank"}. ETH-Zürich.
+
+##### 2.	Wagner, M., Weyell, C., Christiaanse, K., Mikoleit, A., Carmeliet, J., Orehounig, K., ** Mavromatidis, G.**, Hellweg, S., Frömelt, A., Steubing, B., Schlüter, A., Geyer, P., Cisar, S., Schlegel, M., Zaugg, H. and Gruber, S. (2015) [Zernez Energia 2020 - Leitfaden](http://dx.doi.org/10.3929/ethz-a-010577816){:target="_blank"}. ETH-Zürich.
+
 
 
