@@ -18,21 +18,26 @@ title: Publications
 ### Conference Proceedings
 
 
-##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation Of Solar Energy Integration Potential In A Neighborhood](http://www.ibpsa.org/proceedings/BS2015/p2599.pdf){:target="_blank"}. In: 14th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2015, Hyderabad, India, December 7th – 9th 2015.
+##### 1.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Uncertainty and sensitivity analysis for the optimal design of distributed urban energy systems](){:target="_blank"}. In: Sustainable Built Environment Conference, SBE16, Zurich, Switzerland, June 13th – 17th 2016.
 
-##### 2.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Climate change impact on the design of urban energy systems](http://dx.doi.org/10.5075/epfl-cisbat2015-853-858){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2015, Lausanne, Switzerland, September 9th – 11th 2015 DOI
-	
-##### 3.	Orehounig, K., **Mavromatidis, G.**, Derome, D., Carmeliet, J. (2015) [Photovoltaic panels as a main component of energy sustainable communities: comparative energy analysis of a village under Swiss and South African climatic loads](http://repository.up.ac.za/handle/2263/49577){:target="_blank"}. In: Third Southern African Solar Energy Conference, SASEC 2015, Skukuza, Kruger National Park, South Africa, May 11th – 13th 2015.
-	
-##### 4.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](http://www.crcnetbase.com/doi/abs/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
+##### 2.	Wu, R., **Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Optimal Energy System Transformation of a Neighbourhood](){:target="_blank"}. In: Sustainable Built Environment Conference, SBE16, Zurich, Switzerland, June 13th – 17th 2016.
 
-##### 5.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
+##### 3.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Evaluation Of Solar Energy Integration Potential In A Neighborhood](http://www.ibpsa.org/proceedings/BS2015/p2599.pdf){:target="_blank"}. In: 14th International Conference of the International Building Performance Simulation Association (IBPSA), BS 2015, Hyderabad, India, December 7th – 9th 2015.
+
+##### 4.	**Mavromatidis, G.**, Orehounig, K., Carmeliet, J. (2015) [Climate change impact on the design of urban energy systems](http://dx.doi.org/10.5075/epfl-cisbat2015-853-858){:target="_blank"}. In: International Conference Future Buildings & Districts, Sustainability from Nano to Urban Scale, CISBAT 2015, Lausanne, Switzerland, September 9th – 11th 2015 DOI
+
 	
-##### 6.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+##### 5.	Orehounig, K., **Mavromatidis, G.**, Derome, D., Carmeliet, J. (2015) [Photovoltaic panels as a main component of energy sustainable communities: comparative energy analysis of a village under Swiss and South African climatic loads](http://repository.up.ac.za/handle/2263/49577){:target="_blank"}. In: Third Southern African Solar Energy Conference, SASEC 2015, Skukuza, Kruger National Park, South Africa, May 11th – 13th 2015.
 	
-##### 7.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+##### 6.	**Mavromatidis, G.**, Evins, R., Orehounig, K., Dorer, V., Carmeliet, J. (2014) [Multi-objective optimization to simultaneously address energy hub layout, sizing and scheduling using a linear formulation](http://www.crcnetbase.com/doi/abs/10.1201/b17488-108){:target="_blank"}. In: Engineering Optimization (ENGOPT) 2014, Lisbon, Portugal, September 8th – 11th 2014.
+
+##### 7.	Orehounig, K., **Mavromatidis, G.**, Evins, R., Dorer, V., Carmeliet, J. (2014) [Predicting energy consumption of a neighborhood using building performance simulation](). In: Building Simulation and Optimization conference (BSO), London, UK, June 23rd – 24th 2014.
 	
-##### 8.	**Mavromatidis, G.**, Papadopoulos A. M. (2011) [Thermodynamic analysis of a solar operated domestic absorption refrigerator](). In: Proceedings of the National Conference on Architecture, Energy and Environment in buildings and cities (ARENEP 2011) (A.M. Papadopoulos, ed), Athens, Greece, May 3rd-4th May 2013 (in Greek).
+##### 8.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Techno-economical Technology Assessment for Operational Zero Carbon Supermarkets](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+	
+##### 9.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
+	
+##### 10.	**Mavromatidis, G.**, Papadopoulos A. M. (2011) [Thermodynamic analysis of a solar operated domestic absorption refrigerator](). In: Proceedings of the National Conference on Architecture, Energy and Environment in buildings and cities (ARENEP 2011) (A.M. Papadopoulos, ed), Athens, Greece, May 3rd-4th May 2013 (in Greek).
 
 ### Reports
 
