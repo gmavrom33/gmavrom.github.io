@@ -33,3 +33,9 @@ title: Publications
 ##### 7.	Acha, S., **Mavromatidis, G.**, Caritte, V., Shah, N., (2013) [Effective Low-cost Energy Saving Strategies in Supermarkets: An UK Case Study](). In: Proceedings of 26th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2013), Guilin, China, July 16th – 19th 2013.
 	
 ##### 8.	**Mavromatidis, G.**, Papadopoulos A. M. (2011) [Thermodynamic analysis of a solar operated domestic absorption refrigerator](). In: Proceedings of the National Conference on Architecture, Energy and Environment in buildings and cities (ARENEP 2011) (A.M. Papadopoulos, ed), Athens, Greece, May 3rd-4th May 2013 (in Greek).
+
+### Reports
+
+##### 1.	Wagner, M., Weyell, C., Christiaanse, K., Mikoleit, A., Carmeliet, J., Orehounig, K.,** Mavromatidis, G.**, Hellweg, S., Frömelt, A., Steubing, B., Schlüter, A., Geyer, P., Cisar, S., Schlegel, M., Zaugg, H. and Gruber, S.. [Zernez Energia 2020 - Aktionsplan](http://dx.doi.org/10.3929/ethz-a-010525998). ETH-Zürich (2015).
+
+
