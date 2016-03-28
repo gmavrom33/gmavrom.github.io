@@ -6,7 +6,7 @@ title: CV
 <style>
 	h1{ text-align: center; }
 	h1:first-child{ display: none }
-	h5{ text-align: center; }
+	h5{ text-align: right; }
 	h1:first-child{ display: none }
 </style>
 
