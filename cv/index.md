@@ -6,9 +6,11 @@ title: CV
 <style>
 	h1{ text-align: center; }
 	h1:first-child{ display: none }
+	h5{ text-align: center; }
+	h1:first-child{ display: none }
 </style>
 
-##### <p align="right"> Download my CV in <a href="http://mavromatidis.me/downloads/cv.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a></p> 
+##### Download my CV in <a href="http://mavromatidis.me/downloads/cv.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a> 
 
 # Georgios Mavromatidis
 
