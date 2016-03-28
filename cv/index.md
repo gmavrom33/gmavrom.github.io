@@ -8,7 +8,7 @@ title: CV
 	h1:first-child{ display: none }
 </style>
 
-##### Download my CV in <a href="http://mavromatidis.me/downloads/cv.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
+##### Download my CV in {text-align: right;} <a href="http://mavromatidis.me/downloads/cv.pdf"><i class="fa fa-file-pdf-o"></i> PDF</a>
 
 # Georgios Mavromatidis
 
