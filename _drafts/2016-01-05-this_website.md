@@ -15,8 +15,9 @@ Additionally, building an online presence that is regularly updated can increase
 
 Some examples include the following posts in a series of different websites/platforms:
 
-* [Should your academic CV (or résumé) go digital, at last?](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b#.yq7vhcaqz "Should your academic CV (or résumé) go digital, at last?")
-* [The Ins and Outs of a Professional Academic Website](http://theprofessorisin.com/2012/02/07/the-ins-and-outs-of-a-professional-academic-website-guest-post-2/ "The Ins and Outs of a Professional Academic Website")
+* [Should your academic CV (or résumé) go digital, at last?](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b#.yq7vhcaqz)
+* [The Ins and Outs of a Professional Academic Website](http://theprofessorisin.com/2012/02/07/the-ins-and-outs-of-a-professional-academic-website-guest-post-2/)
+* [Creating a simple and effective academic personal website](https://www.elsevier.com/connect/creating-a-simple-and-effective-academic-personal-website)
 
 An additional concern I wanted to address with this website was to avoid a typical case of online academic obscurity. At multiple occasions, I have tried to look into researchers' work
 
@@ -28,11 +29,16 @@ Even though I maintain profiles in both academic "social networks" I wanted an a
 
 ## The first effort(s)
 
-Initially, when I decided that I want to build an online presence
+Initially, as soon as I decided that I want to build an online presence I had a look to find examples that I could follow or even blatantly copy. What I was looking for was the structure of the website, the platform on which to develop it and where to host it.
 
-This decision was motivated by seeing the website of Dr. James Keirstead which I 
+As at the time I was still an MSc student at [Imperial College London](http://www.imperial.ac.uk/) I looked at what I still believe is one of the best academic websites out there: the one by [Dr. James Keirstead](http://www.jameskeirstead.ca/)
 
-A bit of history
+Therefore, I embarked by building a Wordpress website. Other solutions like Squarespace or Tumblr did not cross my mind at the time as I also wanted to familiarize myself with the Wordpress platform.
 
-The challenging part will be to try and maintain this online presence
+## Github pages
 
+After giving up on Wordpress but not on the idea of an academic website
+
+I followed a similar process as before. I chose a topic that was aesthetically pleasing to me
+
+In this case the theme was [Lanyon](https://github.com/poole/lanyon), a Jekyll theme that is based on [Poole](http://getpoole.com/). 
