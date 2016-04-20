@@ -11,7 +11,8 @@ Multiple fellow academics, researchers and writers have advocated for personal b
 
 Some examples include the following posts in a series of different websites/platforms:
 
-* [I'm an inline-style link with tooltip](https://www.google.com "Google")
+* [Should your academic CV (or résumé) go digital, at last?](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b#.yq7vhcaqz "
+Should your academic CV (or résumé) go digital, at last?")
 * [I'm an inline-style link with tooltip](https://www.google.com "Google")
 
 
