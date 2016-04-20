@@ -18,9 +18,17 @@ Some examples include the following posts in a series of different websites/plat
 * [Should your academic CV (or résumé) go digital, at last?](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/should-your-resum%C3%A9-or-cv-go-digital-at-last-23ef784c013b#.yq7vhcaqz "Should your academic CV (or résumé) go digital, at last?")
 * [The Ins and Outs of a Professional Academic Website](http://theprofessorisin.com/2012/02/07/the-ins-and-outs-of-a-professional-academic-website-guest-post-2/ "The Ins and Outs of a Professional Academic Website")
 
+An additional concern I wanted to address with this website was to avoid a typical case of online academic obscurity. At multiple occasions, I have tried to look into researchers' work
 
-Some posts that I have enjoyed 
+Finally, one might argue that for purposes similar to mine there already exist several established "players" that aim to allow academic researchers to maintain an online presence and to connect with each other. Examples include [Academia.edu](https://www.academia.edu/) and [Researchgate](https://www.researchgate.com/).
 
+Even though I maintain profiles in both academic "social networks" I wanted an additional space that I could tailor specifically to my own needs that would also allow me to host __. Therefore, with this website I can also maintain an HTML and a PDF version of my CV, a blog with which I can discuss various topics. Overall, I find my website to be complementary to these academic networks and this is also why I provide links to my profiles at the sidebar of the website.
+
+# How did I build this website
+
+## The first effort(s)
+
+Initially, when I decided that I want to build an online presence
 
 This decision was motivated by seeing the website of Dr. James Keirstead which I 
 
