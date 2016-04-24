@@ -37,8 +37,12 @@ As at the time I was already a PhD student and I was way too much focused on my 
 
 ### Github pages
 
-After giving up on Wordpress but not on the idea of an academic website
+After giving up on Wordpress, the idea of creating my own academic website almost died with it.
 
-I followed a similar process as before. I chose a topic that was aesthetically pleasing to me
+Until I came across Github pages. 
 
-In this case the theme was [Lanyon](https://github.com/poole/lanyon), a Jekyll theme that is based on [Poole](http://getpoole.com/). 
+The first thing I did was try to select a theme that would be aesthetically pleasing to me and that would allow me to create the pages that I want with the flexibility that I wanted. I initially shortlisted two themes: the [harmony](https://github.com/gayanvirajith/harmony) theme and the [Lanyon](https://github.com/poole/lanyon). I ended up choosing the latter due to the elegant sidebar feature that allowed me to hide the navigational menu from the main page.
+
+As I am not a software engineer, web developer or anything of that sort myself, the whole development process was very much based on trial-and-error and experimentation. Nonetheless, the excitement of learning something new overcame the disappointment that I could experience whenever something I was trying was not working or was messing up my website completely.
+
+The list of other academic or personal websites that I copied features from are given below:
