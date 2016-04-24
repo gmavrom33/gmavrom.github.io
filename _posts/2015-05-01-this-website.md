@@ -3,7 +3,7 @@ layout: post
 title: "Why I built this website"
 ---
 
-# Why I decided to build this website
+### Why I decided to build this website
 
 Ever since I started looking at academia a bit more seriously as a career path for myself, I wanted to try and build an online presence of my own.
 
@@ -21,9 +21,9 @@ Finally, one might argue that for purposes similar to mine there already exist s
 
 Even though I maintain profiles in both academic "social networks" I wanted an additional space that I could tailor specifically to my own needs that would also allow me to host additional information other than a list of publications. Therefore, with this website I can also maintain an [HTML](http://mavromatidis.me/cv/) and a [PDF](http://mavromatidis.me/downloads/cv.pdf) version of my CV, a [blog](http://mavromatidis.me/blog/) with which I can discuss various topics. Overall, I find my website to be complementary to these academic networks and this is also why I provide links to my profiles at the sidebar of the website.
 
-# How did I build this website
+### How did I build this website
 
-## The first effort(s)
+#### The first effort(s)
 
 Initially, as soon as I decided that I want to build an online presence I had a look to find examples that I could follow or even blatantly copy. What I was looking for was the structure of the website, the platform on which to develop it and where to host it.
 
@@ -31,7 +31,7 @@ As at the time I was still an MSc student at [Imperial College London](http://ww
 
 Therefore, I embarked by building a Wordpress website. Other solutions like Squarespace or Tumblr did not cross my mind at the time as I also wanted to familiarize myself with the Wordpress platform.
 
-## Github pages
+#### Github pages
 
 After giving up on Wordpress but not on the idea of an academic website
 
