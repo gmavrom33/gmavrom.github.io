@@ -13,7 +13,7 @@ Multiple fellow academics and researchers have advocated for personal branding i
 
 An additional concern I wanted to address with this website was to avoid a typical case of online academic obscurity. At multiple occasions, I have read interesting papers by several academics that motivated me to go and search for more information about the research that they are conducting and/or additional publications that they have authored. However, it is unfortunately very common that not a concise, well-designed website contains the information that I am looking for. Bear in mind that I do not necessarily refer to a personal websites. Sometimes personal pages on institutional websites are poorly built and do not contain the necessary information.
 
-An interesting discussion on the matter has taken place at Academia Stackexchange [here](http://academia.stackexchange.com/questions/38619/why-are-professors-websites-so-ugly)
+An interesting discussion on the matter has taken place at Academia Stackexchange [here](http://academia.stackexchange.com/questions/38619/why-are-professors-websites-so-ugly).
 
 Finally, one might argue that for purposes similar to mine there already exist several established "players" that aim to allow academic researchers to maintain an online presence and to connect with each other. Examples include [Academia.edu](https://www.academia.edu/) and [Researchgate](https://www.researchgate.com/).
 
@@ -23,11 +23,17 @@ Even though I maintain profiles in both academic "social networks" I wanted an a
 
 #### The first effort(s)
 
-Initially, as soon as I decided that I want to build an online presence I had a look to find examples that I could follow or even blatantly copy. What I was looking for was the structure of the website, the platform on which to develop it and where to host it.
+Initially, as soon as I decided that I want to build an online presence I had a look to find examples that I could follow or even blatantly copy (:wink). What I was looking for was the structure of the website, the platform on which to develop it and where to host it.
 
-As at the time I was still an MSc student at [Imperial College London](http://www.imperial.ac.uk/) I looked at what I still believe is one of the best academic websites out there: the one by [Dr. James Keirstead](http://www.jameskeirstead.ca/)
+As at the time I was still an MSc student at [Imperial College London](http://www.imperial.ac.uk/) I looked at what I still believe is one of the best academic websites out there; the one by [Dr. James Keirstead](http://www.jameskeirstead.ca/).
 
-Therefore, I embarked by building a Wordpress website. Other solutions like Squarespace or Tumblr did not cross my mind at the time as I also wanted to familiarize myself with the Wordpress platform.
+His website is built using Wordpress and as a result I decided to do the same. Other solutions like Squarespace or Tumblr did cross my mind at the time, but I decided to proceed with Wordpress as I also wanted to familiarize myself with the platform.
+
+I started with a theme that matched my preferences and I started building the website following mostly tutorials off the Internet. In general it was a smooth experience and I managed to host my first website at the domain: www.georgiosmavromatidis.com (I know that domain is pretty long...).
+
+However, for reasons that I did not care enough to investigate the website became slower and slower. In addition, some customizations that I wanted to implement were giving me a hard time, mainly due to my lack of web development skills.
+
+As at the time I was already a PhD student and I was way too much focused on my PhD, I completely gave up on the idea of a personal website, substituting it with my [departmental webpage](www.carmeliet.arch.ethz.ch/People/Mavromatidis).
 
 #### Github pages
 
