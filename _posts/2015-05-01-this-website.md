@@ -19,7 +19,7 @@ Finally, one might argue that for purposes similar to mine there already exist s
 
 Even though I maintain profiles in both academic "social networks" I wanted an additional space that I could tailor specifically to my own needs that would also allow me to host additional information other than a list of publications. Therefore, with this website I can also maintain an [HTML](http://mavromatidis.me/cv/) and a [PDF](http://mavromatidis.me/downloads/cv.pdf) version of my CV, a [blog](http://mavromatidis.me/blog/) with which I can discuss various topics. Overall, I find my website to be complementary to these academic networks and this is also why I provide links to my profiles at the sidebar of the website.
 
-## How did I build this website
+## How I built this website
 
 ### The first effort(s)
 
