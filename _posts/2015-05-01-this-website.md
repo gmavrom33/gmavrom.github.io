@@ -3,8 +3,6 @@ layout: post
 title: "Why I built this website"
 ---
 
-### Why I decided to build this website
-
 Ever since I started looking at academia a bit more seriously as a career path for myself, I wanted to try and build an online presence of my own.
 
 Multiple fellow academics and researchers have advocated for personal branding in academia and the importance of maintaining an online presence regarding research development and communication. Some examples include the following posts in a series of different websites/platforms:
