@@ -1,8 +1,7 @@
 
 ---
 layout: post
-title: "Why I built this website"
-permalink: why-i-built-this-website
+title: Why I built this website
 ---
 
 # Why I decided to build this website
