@@ -2,11 +2,13 @@
 layout: page
 title: My PhD
 ---
- <a href="#top">Back to top</a>
+# PhD title: Design of distributed urban energy systems under uncertainty
 
 This is a page that contains a description of my PhD
 
 [Uncertainty and Sensitivity Analysis](#uncertainty-and-sensitivity-analysis)
+[Optimisation under Uncertainty](#uncertainty-and-sensitivity-analysis)
+
 
 An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law. 
 

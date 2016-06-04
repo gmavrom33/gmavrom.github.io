@@ -11,9 +11,6 @@ Currently, I am a PhD student in the [Chair of Building Physics][] at [ETH Zuric
 
 Before that, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
 
-Before that, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
-
-
 <!-- This website uses <a href="http://jekyllrb.com/">jekyll</a>, <a href="http://getpoole.com">poole</a> and the <a href="http://hyde.getpoole.com/">hyde</a> theme. Logo courtesy of <a href="http://katlab.github.com">kat</a>.
 Hosted on <a href="https://pages.github.com/">Github Pages</a>. Domain by <a href="https://iwantmyname.com">iwantmyname</a>. -->
 
