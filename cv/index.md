@@ -23,9 +23,9 @@ title: CV
 	</ul>
 </div>
 
-## Education
-
 ***
+
+## Education
 
 **PhD candidate in Chair of Building Physics**, *ETH Zürich, Switzerland*
 
@@ -40,9 +40,9 @@ MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Ar
 
 Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”.* Supervised by: Prof. Agis M. Papadopoulos
 
-## Experience
-
 ***
+
+## Experience
 
 **Research assistant**, *Imperial College London* - 2012-2013
 
@@ -58,9 +58,9 @@ Projects involved include:
 * Thermodynamic analysis of a solar operated domestic absorption refrigerator
 * Assessment of energy conservation measures in typical buildings according to the geographic and climatic regions
 
-## Computer Skills
-
 ***
+
+## Computer Skills
 
 Programming: `Matlab`,`R`,`Python`
 
@@ -68,22 +68,22 @@ Mathematical programming: `AIMMS`, `GAMS`
 
 GIS: `ArcGIS`, `QGIS`
 
-## Languages
-
 ***
+
+## Languages
 
 * *English*: professional proficiency
 * *Greek*: native speaker
 
-## Awards/Distinctions
-
 ***
+
+## Awards/Distinctions
 
 * Imperial College’s Energy Futures Lab Award for best overall student of the year 2011/2012 from a cohort of 40 students
 * State Scholarships Foundation Award (IKY) Honorary Scholarships for distinction in my studies during the academic years 2005/06 & 2006/07
 
-## Interests
-
 ***
+
+## Interests
 
 In my spare time I enjoy playing guitar or reading graphic novel and I do not enjoy trying to catch up with unread articles in my RSS feed.
