@@ -25,19 +25,25 @@ title: CV
 
 ## Education
 
-> ETH Zurich - 2013-present
+<div class="message">
+ETH Zurich 2013-present
+</div>
 
 **PhD candidate in Chair of Building Physics**
 
 Dissertation title: *”Design of urban distributed energy systems under uncertainty”.* Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
 
-> Imperial College London - 2011-2012
+<div class="message">
+Imperial College London - 2011-2012
+</div>
 
 **MSc in Sustainable Energy Futures**
 
 MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”.* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
 
-> Aristotle University of Thessaloniki - 2005-2010
+<div class="message">
+Aristotle University of Thessaloniki - 2005-2010
+</div>
 
 **MEng in Mechanical Engineering**
 
@@ -60,11 +66,11 @@ Projects involved include:
 * Assessment of energy conservation measures in typical buildings according to the geographic and climatic regions
 
 ## Computer Skills
-Programming: `Matlab, R, Python`
+Programming: `Matlab`,`R`,`Python`
 
-Mathematical programming: `AIMMS, GAMS`
+Mathematical programming: `AIMMS`, `GAMS`
 
-GIS: `ArcGIS, QGIS`
+GIS: `ArcGIS`, `QGIS`
 
 ## Languages
 
