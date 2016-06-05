@@ -29,6 +29,9 @@ title: CV
 ETH Zurich 2013-present
 </div>
 
+ETH Zurich 2013-present
+***
+
 **PhD candidate in Chair of Building Physics**
 
 Dissertation title: *”Design of urban distributed energy systems under uncertainty”.* Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
