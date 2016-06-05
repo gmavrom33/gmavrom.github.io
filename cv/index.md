@@ -34,22 +34,39 @@ I feel comfortable working with Javascript, any CSS preprocessor and lately I re
 > ETH Zurich - 2013-present
 
 > Imperial College London - 2011-2012
+
 MSc in Sustainable Energy Futures
 
+MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
+
 > Aristotle University of Thessaloniki - 2005-2010
+
+Ming in Mechanical Engineering
+
+Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”* Supervised by: Prof. Agis M. Papadopoulos
 
 ## Experience  
 
 > Research assistant, Imperial College London - 2012-2013
 
+Projects involved included:
+
+* Imperial College - Sainsbury's Supermarkets Ltd partnership: Project aiming at reducing the carbon footprint of their supermarkets
+* ARES Prototype (Agent–Based Resource Economic Simulator): Development of agent-based model for all types of dynamics of an economy and the ecosystems of which it is a part (human ecosystem)
+
 > Research assistant, Aristotle University of Thessaloniki - 2011-2012
 
+Projects involved include:
+
 ## Computer Skills
+Programming: `Python, R, Matlab, NetLogo`
+Mathematical programming: `AIMMS, GAMS`
+GIS: `ArcGIS, QGIS`
 
 ## Languages
 
-1. English, professional proficiency
-2. Greek, native speaker
+* English, professional proficiency
+* Greek, native speaker
 
 ## Awards/Distinctions
 * Imperial College’s Energy Futures Lab Award for best overall student of the year 2011/2012 from a cohort of 40 students
@@ -57,4 +74,4 @@ MSc in Sustainable Energy Futures
 
 ## Interests
 
-I enjoy climbing, running outdoors, watch Tv series and read some tweets.
+In my spare time I enjoy playing guitar or reading graphic novel and I do not enjoy trying to catch up with unread articles in my RSS feed.
