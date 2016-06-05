@@ -25,47 +25,47 @@ title: CV
 
 ## Education
 
-*ETH Zurich: 2013-present*
-
 ***
 
-**PhD candidate in Chair of Building Physics**
+**PhD candidate in Chair of Building Physics**, *ETH Zürich, Switzerland*
 
 Dissertation title: *”Design of urban distributed energy systems under uncertainty”.* Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
 
-<div class="message">
-Imperial College London - 2011-2012
-</div>
-
-**MSc in Sustainable Energy Futures**
+**MSc in Sustainable Energy Futures**, *Imperial College London, UK*
 
 MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”.* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
 
-<div class="message">
-Aristotle University of Thessaloniki - 2005-2010
-</div>
+**MEng in Mechanical Engineering**, *Aristotle University of Thessaloniki, Greece*
 
-**MEng in Mechanical Engineering**
 
 Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”.* Supervised by: Prof. Agis M. Papadopoulos
 
-## Experience  
+***
 
-> Research assistant, Imperial College London - 2012-2013
+## Experience
+
+***
+
+**Research assistant**, *Imperial College London* - 2012-2013
 
 Projects involved included:
 
 * Imperial College - Sainsbury's Supermarkets Ltd partnership: Project aiming at reducing the carbon footprint of their supermarkets
 * ARES Prototype (Agent–Based Resource Economic Simulator): Development of agent-based model for all types of dynamics of an economy and the ecosystems of which it is a part (human ecosystem)
 
-> Research assistant, Aristotle University of Thessaloniki - 2011-2012
+**Research assistant**, *Aristotle University of Thessaloniki* - 2011-2012
 
 Projects involved include:
 
 * Thermodynamic analysis of a solar operated domestic absorption refrigerator
 * Assessment of energy conservation measures in typical buildings according to the geographic and climatic regions
 
+***
+
 ## Computer Skills
+
+***
+
 Programming: `Matlab`,`R`,`Python`
 
 Mathematical programming: `AIMMS`, `GAMS`
