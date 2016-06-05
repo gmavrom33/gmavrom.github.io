@@ -34,6 +34,7 @@ I feel comfortable working with Javascript, any CSS preprocessor and lately I re
 > ETH Zurich - 2013-present
 
 > Imperial College London - 2011-2012
+MSc in Sustainable Energy Futures
 
 > Aristotle University of Thessaloniki - 2005-2010
 
@@ -44,57 +45,6 @@ I feel comfortable working with Javascript, any CSS preprocessor and lately I re
 > Research assistant, Aristotle University of Thessaloniki - 2011-2012
 
 ## Computer Skills
-
-<table>
-	<th colspan="2">
-		Proficient
-	</th>
-	<tr>
-		<td>CSS preprocessors</td>
-		<td>HTML templating</td>
-	</tr>
-	<tr>
-		<td>JavaScript and jQuery</td>
-		<td>Twitter Bootstrap and Foundation</td>
-	</tr>
-	<tr>
-		<td>Command Line Interface</td>
-		<td>Mac OS X</td>
-	</tr>
-	<th colspan="2">
-		Competent
-	</th>
-	<tr>
-		<td>System Version Control with git</td>
-		<td>Test­ driven development</td>
-	</tr>
-	<tr>
-		<td>Unit testing, RSpec, Jasmine and Mocha</td>
-		<td>Integration testing with Capybara</td>
-	</tr>
-	<tr>
-		<td>Nodejs with Express</td>
-		<td>Ruby and Sinatra</td>
-	</tr>
-	<th colspan="2">
-		Advanced Beginner
-	</th>
-	<tr>
-		<td>Object­ oriented principles and design</td>
-		<td>Agile principles</td>
-	</tr>
-	<tr>
-		<td>Pair programming</td>
-		<td>PostgreSQL, CouchDB, MongoDB</td>
-	</tr>
-	<tr>
-		<td>Integration of APIs</td>
-		<td>GitHub Flavoured Markdown</td>
-	</tr>
-	<tr>
-	<td colspan="2">Ability to translate designs into functional webpages with PhotoShop</td>
-	</tr>
-</table>
 
 ## Languages
 
