@@ -25,11 +25,8 @@ title: CV
 
 ## Education
 
-<div class="message">
-ETH Zurich 2013-present
-</div>
+*ETH Zurich: 2013-present*
 
-ETH Zurich 2013-present
 ***
 
 **PhD candidate in Chair of Building Physics**
