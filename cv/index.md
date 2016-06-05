@@ -31,43 +31,19 @@ I feel comfortable working with Javascript, any CSS preprocessor and lately I re
 
 ## Education
 
-- 3 grado de B.U.P. 1994-1998 (equiv to A Levels)
-- Two years of vocational training in Electricity and Network installations. 2005-2007
+> ETH Zurich - 2013-present
 
-## Job experience  
+> Imperial College London - 2011-2012
 
-> Deloitte Digital 2015 - present
+> Aristotle University of Thessaloniki - 2005-2010
 
-Deloitte Digital is one of the newest branch at Deloitte. Works with the most important brands within the UK providing digital solutions using the latest technologies in the market. My duties as an analyst are to work in projects using different skills like Javascript, CSS3, HTML5, TDD and other frontend technologies.
+## Experience  
 
- > Residència Ergos  2012 - 2015
+> Research assistant, Imperial College London - 2012-2013
 
-Residència Ergos is an elderly home placed in Barcelona, Spain. My duties as a Freelancer are web hosting, server maintenance, resolving problems, web design and code maintenance.
+> Research assistant, Aristotle University of Thessaloniki - 2011-2012
 
-> MakersAcademy Employers page  2014
-
-Implementation of the new design for the Makers Academy employers page. Conversion of a psd file into a fully functional web page using Sass.
-
-> Local Hero 2013 - 2014
-
-Local Hero is a cafe placed in Fulham my main duties were the preparation of vegan dishes and breakfast, chef management, improve the dishes presentation with a consequent raise of sales. 
-Before I came to London I had been working as a chef in different restaurants and hotels in Barcelona.
-
->  Fibratel & Ambar 2007 - 2009
-
-At Fibratel and Ambar I worked as a Field Technician were my main duties were installing ethernet networks, land lines and other jobs related with telecommunications in several offices all around Barcelona. 
-
-## Web Development training
-
-> ###### Makers Academy Aug 2014 - Oct 2014
-
-I attended this twelve week web programming bootcamp, focused on learning full stack web development using cutting edge technologies.
-
-> ###### JavaScript course at UOC Sept 2012 - Dec 2012
-
-I completed this Front End development trimester at Open University Catalonia mainly focused in Javascript, this is the [Final Project](http://mycoffice.es/web-project/).
-
-## Programming Skills
+## Computer Skills
 
 <table>
 	<th colspan="2">
@@ -122,9 +98,13 @@ I completed this Front End development trimester at Open University Catalonia ma
 
 ## Languages
 
-1. English, fluent, advance professional level.
-2. Spanish, native speaker.
+1. English, professional proficiency
+2. Greek, native speaker
 
-## What Albert does when he is not coding?
+## Awards/Distinctions
+* Imperial College’s Energy Futures Lab Award for best overall student of the year 2011/2012 from a cohort of 40 students
+* State Scholarships Foundation Award (IKY) Honorary Scholarships for distinction in my studies during the academic years 2005/06 & 2006/07
+
+## Interests
 
 I enjoy climbing, running outdoors, watch Tv series and read some tweets.
