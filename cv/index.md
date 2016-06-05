@@ -23,27 +23,25 @@ title: CV
 	</ul>
 </div>
 
-I am a highly motivated and fast learner that is seeking a position into the web development world so I can improve my skills and became a better developer.
-
-My interest in technology and code began when I started blogging and use Mac OS X. Now I find myself learning and spending most the time with anything that is web related. 
-
-I feel comfortable working with Javascript, any CSS preprocessor and lately I really enjoy use version control systems and work with the shell.
-
 ## Education
 
 > ETH Zurich - 2013-present
 
+**PhD candidate in Chair of Building Physics**
+
+Dissertation title: *”Design of urban distributed energy systems under uncertainty”.* Supervised by: Prof. Dr. Jan Carmeliet and Dr. Kristina Orehounig
+
 > Imperial College London - 2011-2012
 
-MSc in Sustainable Energy Futures
+**MSc in Sustainable Energy Futures**
 
-MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
+MSc thesis: *”Diagnostic tools of energy performance for supermarkets using Artificial Neural Network algorithms”.* Supervised by: Prof. Nilay Shah and Dr. Salvador Acha
 
 > Aristotle University of Thessaloniki - 2005-2010
 
-Ming in Mechanical Engineering
+**MEng in Mechanical Engineering**
 
-Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”* Supervised by: Prof. Agis M. Papadopoulos
+Diploma Thesis: *”Investigation of the operational impact of Phase Change Materials (PCMs) in domestic refrigerators”.* Supervised by: Prof. Agis M. Papadopoulos
 
 ## Experience  
 
@@ -58,9 +56,14 @@ Projects involved included:
 
 Projects involved include:
 
+* Thermodynamic analysis of a solar operated domestic absorption refrigerator
+* Assessment of energy conservation measures in typical buildings according to the geographic and climatic regions
+
 ## Computer Skills
-Programming: `Python, R, Matlab, NetLogo`
+Programming: `Matlab, R, Python`
+
 Mathematical programming: `AIMMS, GAMS`
+
 GIS: `ArcGIS, QGIS`
 
 ## Languages
