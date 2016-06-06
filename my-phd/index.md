@@ -17,6 +17,8 @@ The intermittent nature of renewables, the stochastic nature of human behaviour 
 
 ![PhD concept](http://mavromatidis.me/my-phd/PhD_concept.png "Optional title")
 
+<img src="http://mavromatidis.me/my-phd/PhD_concept.png" width="48">
+
 Therefore, the goal of this PhD is to build upon the existing framework of energy hub modelling for the optimal design of distributed urban energy systems by incorporating uncertainty into the design process.
 
 [Uncertainty and Sensitivity Analysis](#uncertainty-and-sensitivity-analysis)
