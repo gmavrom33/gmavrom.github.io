@@ -15,10 +15,9 @@ However, it is irrevocably affected by uncertainty.
 
 The intermittent nature of renewables, the stochastic nature of human behaviour and the unknown climate, economic and energy policy outlook render many model parameters uncertain. As a result, when modelling is performed in a deterministic manner, the successful design outcome of an urban energy system depends heavily on the choice of the model parameters as any deviation can render the design suboptimal.
 
-Reference-style: 
 ![PhD concept][PhD]
 
-[PhD]: http://mavromatidis.me/my-phd/PhD_concept.png “Design of urban distributed energy systems under uncertainty”
+[PhD]: http://mavromatidis.me/downloads/PhD_concept.png “Design of urban distributed energy systems under uncertainty”
 
 
 Therefore, the goal of this PhD is to build upon the existing framework of energy hub modelling for the optimal design of distributed urban energy systems by incorporating uncertainty into the design process.
