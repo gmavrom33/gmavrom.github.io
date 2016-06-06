@@ -2,9 +2,26 @@
 layout: page
 title: My PhD
 ---
-# PhD title: Design of distributed urban energy systems under uncertainty
+## PhD title: Design of distributed urban energy systems under uncertainty
 
-This is a page that contains a description of my PhD
+In this webpage, I would like to briefly describe the context and the content of my PhD research.
+
+My PhD’s topic is related to the need to perform a paradigm shift in the structure of future energy systems that will incorporate renewable energy sources and other forms of distributed energy systems (DES). The motivation behind such a shift is to 
+
+For this paradigm shift, urban environments are ideal to accommodate distributed energy sources due to high degrees of urbanization, high energy demand density and the potential for building integrated renewables.
+
+Energy modelling for the optimal design of distributed urban energy systems is an effective tool that allows the investigation of the interplay between different sources and provide insights 
+However, it is irrevocably affected by uncertainty.
+
+The intermittent nature of renewables, the stochastic nature of human behaviour and the unknown climate, economic and energy policy outlook render many model parameters uncertain. As a result, when modelling is performed in a deterministic manner, the successful design outcome of an urban energy system depends heavily on the choice of the model parameters as any deviation can render the design suboptimal.
+
+Reference-style: 
+![PhD concept][PhD]
+
+[PhD]: http://mavromatidis.me/my-phd/PhD_concept.png “Design of urban distributed energy systems under uncertainty”
+
+
+Therefore, the goal of this PhD is to build upon the existing framework of energy hub modelling for the optimal design of distributed urban energy systems by incorporating uncertainty into the design process.
 
 [Uncertainty and Sensitivity Analysis](#uncertainty-and-sensitivity-analysis)
 [Optimisation under Uncertainty](#uncertainty-and-sensitivity-analysis)
