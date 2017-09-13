@@ -17,7 +17,7 @@ title: Home
 	</ul>
 </div>
 
-Hello! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
+Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
 <a href="https://scholar.google.com/" class="btn btn-primary mb1 bg-blue" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Button
