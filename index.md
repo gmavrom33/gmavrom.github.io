@@ -23,6 +23,10 @@ Hi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] in
   <i class="ai ai-google-scholar"></i> Button
 </a>
 
+<a href="https://scholar.google.com/" class="btn btn-outline" style="padding: 0.3em;">
+  <i class="ai ai-google-scholar"></i> Button
+</a>
+
 You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
 
 Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
