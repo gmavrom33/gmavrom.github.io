@@ -19,6 +19,10 @@ title: Home
 
 Hi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
+<a href="https://scholar.google.com/citations?user=CZwrwHAAAAAJ" class="btn btn-primary" style="padding: 0.3em;">
+  <i class="ai ai-google-scholar"></i> Google Scholar
+</a>
+
 You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
 
 Before doing my PhD, I graduated from [Aristotle University of Thessaloniki][] with a MEng in [Mechanical Engineering][]. I continued my path [Imperial College London][] from where I graduated with an [MSc in Sustainable Energy Futures][].
