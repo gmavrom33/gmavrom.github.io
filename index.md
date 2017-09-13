@@ -6,6 +6,17 @@ title: Home
 <!-- <img style="float: right;" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">-->
 <img align="right" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">
 
+# Georgios Mavromatidis
+
+<div class="contact">
+  <ul>
+		<li><a href="https://www.linkedin.com/in/gmavrom"><i class="fa fa-linkedin"></i> gmavrom</a></li>
+		<li><a href="mailto:georgios.mavromatidis@gmail.com?subject=Say%20Hello%20to%20George"><i class="fa fa-send"></i>  georgios.mavromatidis@gmail.com</a></li>
+		<li><a href="https://github.com/gmavrom"><i class="fa fa-github"></i>  gmavrom</a></li>
+		<li><a href="https://twitter.com/gmavrom"><i class="fa fa-twitter"></i>  @gmavrom</a></li>
+	</ul>
+</div>
+
 Hi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
 You can find information about the research I do for [my PhD][] or visit my [blog][] where I discuss things that could be related to my work or maybe not.
