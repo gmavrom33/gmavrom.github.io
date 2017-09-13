@@ -23,6 +23,10 @@ Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][
   <i class="ai ai-google-scholar"></i> Button
 </a>
 
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {border-radius: 4px;}
+
+
 <a href="https://scholar.google.com/" class="btn btn-outline" style="padding: 0.3em;">
   <i class="ai ai-google-scholar"></i> Button
 </a>
