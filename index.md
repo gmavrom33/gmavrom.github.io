@@ -28,7 +28,7 @@ Hi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] in
 </a>
 
 <button type="button" class="btn btn-primary btn-lg">Large button</button>
-<button type="button" class="btn btn-secondary btn-lg">Large button</button>
+<button type="button" class="btn btn-secondary btn-lg">Gray button</button>
 
 <button type="button" class="btn btn-primary">Primary</button>
 
