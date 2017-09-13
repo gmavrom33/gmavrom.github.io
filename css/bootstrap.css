@@ -1989,13 +1989,13 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #0099cc;
+  background-color: #7a939b;
   border-color: #007bff;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
+  background-color: #7a939b;
   border-color: #0062cc;
 }
 
@@ -2004,15 +2004,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #7a939b;
+  border-color: #7a939b;
 }
 
 .btn-primary:active, .btn-primary.active,
 .show > .btn-primary.dropdown-toggle {
-  background-color: #0069d9;
+  background-color: #7a939b;
   background-image: none;
-  border-color: #0062cc;
+  border-color: #7a939b;
 }
 
 .btn-secondary {
