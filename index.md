@@ -4,6 +4,7 @@ title: Home
 ---
 
 <!-- <img style="float: right;" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">-->
+<img align="right" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">
 
 Hi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
