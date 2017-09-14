@@ -19,6 +19,11 @@ title: Home
 
 Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
+<p>
+  <a href="https://github.com/poole/poole" class="btn">Learn more on GitHub</a>
+  <a href="http://demo.getpoole.com" class="btn">Demo</a>
+</p>
+
 <a href="https://github.com/poole/poole" class="btn">Learn more on GitHub</a>
 
 <button type="button" class="btn btn-primary">Large button</button>
