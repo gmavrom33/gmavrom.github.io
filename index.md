@@ -20,7 +20,7 @@ title: Home
 Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
 
 <p>
-  <a href="https://mavromatidis.me/cv" class="btn">CV</a>
+  <a href="http://mavromatidis.me/cv" class="btn">CV</a>
   <a href="http://demo.getpoole.com" class="btn"><i class="fa fa-twitter"></i>  @gmavrom</a>
 </p>
 
