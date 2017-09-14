@@ -8,6 +8,8 @@ title: Home
 
 # Georgios Mavromatidis
 
+<center> <h1>Georgios Mavromatidis 1</h1> </center>
+
 <div class="contact">
   <ul>
 		<li><a href="https://www.linkedin.com/in/gmavrom"><i class="fa fa-linkedin"></i> gmavrom</a></li>
