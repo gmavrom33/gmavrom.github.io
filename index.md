@@ -8,7 +8,7 @@ title: Home
 
 # Georgios Mavromatidis
 
-<center> <h1>Georgios Mavromatidis 1</h1> </center>
+<center> <h1>Georgios Mavromatidis</h1> </center>
 
 <div class="contact">
   <ul>
