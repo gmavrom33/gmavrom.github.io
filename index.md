@@ -6,9 +6,9 @@ title: Home
 <!-- <img style="float: right;" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">-->
 <img align="right" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">
 
-# Georgios Mavromatidis
-
 <center> <h1>Georgios Mavromatidis</h1> </center>
+
+<center> <h2>Postdoctoral researcher, ETH Zurich</h2> </center>
 
 <div class="contact">
   <ul>
