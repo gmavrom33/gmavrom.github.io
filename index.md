@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="10%" height="10%">
-
 <center> <h1>Georgios Mavromatidis</h1> </center>
+
+<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="20%" height="20%">
 
 <center> <h3>Postdoctoral researcher, ETH Zurich</h3> </center>
 
