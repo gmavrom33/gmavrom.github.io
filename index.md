@@ -3,6 +3,20 @@ layout: default
 title: Home
 ---
 
+<table style="width:100%">
+  <th rowspan="3"><img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%"></th>
+    <td><h1>Georgios Mavromatidis</h1>
+</td>
+  </tr>
+  <tr>
+    <td><h3>Postdoctoral researcher, ETH Zurich</h3></td>
+  </tr>
+  <tr>
+    <td>Sugableht</td>
+  </tr>
+
+</table>
+
 <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%">
 
 <h1>Georgios Mavromatidis</h1>
