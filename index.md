@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<!-- <img align="right" src="https://s.gravatar.com/avatar/f4d99d27a868f6337e9da141ef0d0c08?s=80">-->
+<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png">
 
 <center> <h1>Georgios Mavromatidis</h1> </center>
 
