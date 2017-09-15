@@ -11,10 +11,10 @@ title: Home
 <center> <h3>Postdoctoral researcher, ETH Zurich</h3> </center>
 
 <center><p class="social-icons">
-      <a href="https:// scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap fa-2x"></i></a> &nbsp; &nbsp; &nbsp;
-      <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp;
-      <a href="https://twitter.com/gmavrom" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp;
-      <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp;
+      <a href="https:// scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap fa-2x"></i></a> &nbsp; &nbsp;
+      <a href="https://www.linkedin.com/in/gmavrom" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a> &nbsp; &nbsp;
+      <a href="https://twitter.com/gmavrom" target="_blank"><i class="fa fa-twitter fa-2x"></i></a> &nbsp; &nbsp;
+      <a href="https://github.com/gmavrom" target="_blank"><i class="fa fa-github fa-2x"></i></a> &nbsp; &nbsp;
 </p></center>
 
 Gruezi! I am a PhD student in the [Chair of Building Physics][] at [ETH Zurich][] involved in Urban Energy Systems research and this is my personal webpage.
