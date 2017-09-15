@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png">
+<img align="right" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png" height="20%">
 
 <center> <h1>Georgios Mavromatidis</h1> </center>
 
