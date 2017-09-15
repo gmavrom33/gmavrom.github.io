@@ -3,31 +3,6 @@ layout: default
 title: Home
 ---
 
-div {
-    border: 3px solid #4CAF50;
-    padding: 5px;
-}
-
-.img1 {
-    float: right;
-}
-
-.clearfix {
-    overflow: auto;
-}
-
-.img2 {
-    float: right;
-}
-
-<div class="clearfix">
-<img class="img2" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png" alt="Pineapple" width="170" height="170">
-<h1>Georgios Mavromatidis</h1>
-
-<h3>Postdoctoral researcher, ETH Zurich</h3>
-
-</div>
-
 <img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%">
 
 <h1>Georgios Mavromatidis</h1>
