@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%">
+<img align="left" src="http://mavromatidis.me/downloads/Mavromatidis_circle.png"  width="17%" height="17%"> &nbsp; 
 
-&nbsp; <h1>Georgios Mavromatidis</h1>
+<h1>Georgios Mavromatidis</h1>
 
-&nbsp; <h3>Postdoctoral researcher, ETH Zurich</h3>
+<h3>Postdoctoral researcher, ETH Zurich</h3>
 
 <center><p class="social-icons">
       <a href="https:// scholar.google.ch/citations?user=ki0AOEEAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap fa-2x"></i></a> &nbsp; &nbsp;
